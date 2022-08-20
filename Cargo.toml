@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/alion02/normform"
+description = "Library for handling normal forms"
+keywords = ["algebra", "zhegalkin", "anf"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
